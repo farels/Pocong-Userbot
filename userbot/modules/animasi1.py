@@ -24,7 +24,7 @@ async def typewriter(typew):
 async def typewriter(typew):
     typew.pattern_match.group(1)
     sleep(1)
-    await typew.edit("Tau kh kalian wahai tuan-tuan??")
+    await typew.edit("Tau kah kalian wahai tuan-tuan??")
     sleep(1)
     await typew.edit("se**KONT0L** **K0NTOL** nya si **K0NTOL**")
     sleep(1)
@@ -43,7 +43,7 @@ async def typewriter(typew):
     sleep(1)
     await typew.edit("spam bot mulu")
     sleep(1)
-    await typew.edit("baru jadi userbot ya?? xixixi")
+    await typew.edit("**baru** jadi userbot ya?? **xixixi**")
     sleep(1)
     await typew.edit("pantes **NORAK**")
 
